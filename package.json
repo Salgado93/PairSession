@@ -1,0 +1,23 @@
+{
+  "name": "pairsession",
+  "version": "1.0.0",
+  "description": "JavaScript pair session.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salgado93/PairSession.git"
+  },
+  "author": "Daniel Salgado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Salgado93/PairSession/issues"
+  },
+  "homepage": "https://github.com/Salgado93/PairSession#readme",
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "jest": "^26.6.3"
+  }
+}
